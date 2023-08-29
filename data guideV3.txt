@@ -51,3 +51,5 @@
   {"desc4":"The use of private cheats in Standoff 2 v2 undermines the principles of fair play that form the foundation of competitive gaming. When players use cheats to gain an unfair advantage, it creates a toxic environment where honest players feel frustrated and discouraged. It also distorts the ranking system, as cheaters climb the leaderboards by exploiting their illicit tools. This can result in a decline in the overall enjoyment of the game for the entire community.","photo4":"https://iili.io/HyhR9Lb.jpg"},
   {"desc5":"Game developers and publishers are well aware of the negative impact cheats have on their player base and the game's reputation. As a response, they have implemented various countermeasures to detect and ban cheaters.","photo5":"https://iili.io/HyhRJBj.jpg"},
   {"desc6":"The gaming community itself plays a crucial role in combating the use of cheats. Players should report suspected cheaters, avoid using cheats themselves, and promote a culture of fair play. Community vigilance can aid developers in swiftly identifying and addressing cheating incidents. ","photo6":"https://iili.io/HyhRdEx.jpg"}
+
+
